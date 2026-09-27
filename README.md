@@ -6,8 +6,8 @@ Ik leer PHP om backend van websites te kunnen maken.
 
 ## Wat leer ik?
 
-* math functions
-* if  statements
+* math functions v
+* if  statements v
 * logical pertors
 * for loops
 * PHP connect to mySQL database
