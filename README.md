@@ -8,8 +8,8 @@ Ik leer PHP om backend van websites te kunnen maken.
 
 * math functions v
 * if  statements v
-* logical pertors
-* for loops
+* logical pertors v
+* for loops 
 * PHP connect to mySQL database
 * Gegevens opslaan en ophalen
 * PHP insert into mySQL database

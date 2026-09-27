@@ -1,3 +1,9 @@
+<?php
+// for loop = repeat a block of code a specified number of times
+for ($i = 1; $i <= 100; $i++) {
+    echo $i . ": " . $i . "<br>";
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,28 +13,12 @@
 </head>
 <body>
     <form action="index.php" method="post">
-        <label for="x">x:</label>
+        <label for="x">Enter a number to count down:</label>
         <input type="text" name="x" id="x">
 
-        <label for="y">y:</label>
+        <label for="y">Y:</label>
         <input type="text" name="y" id="y">
         <input type="submit" value="total">
     </form>
-
-    <?php
-    $x = $_POST['x'] ?? 0;
-    $y = $_POST['y'] ?? 0;
-
-    $total = null;
-
-    // $total = abs($x);
-    // $total = round($x);
-    // $total = floor($x);
-    // $total = ceil($x);
-    // $total = sqrt($x);
-    // $total = pow($x, $y);
-
-    echo $total;
-    ?>
 </body>
 </html>
