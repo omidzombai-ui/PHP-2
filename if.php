@@ -16,7 +16,7 @@ $hours = 10;
 $rate = 15;
 $weeklyPay = $hours * $rate;
 if ($hours<=0){
-    $weeklyPay = 0;
+    $weeklyPay = 20;
 
 
 
