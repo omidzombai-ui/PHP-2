@@ -10,7 +10,7 @@ Ik leer PHP om backend van websites te kunnen maken.
 * if  statements v
 * logical pertors v
 * for loops v
-* PHP connect to mySQL database 
+* PHP connect to mySQL database v
 * Gegevens opslaan en ophalen
 * PHP insert into mySQL database
 * PHP reg from project
