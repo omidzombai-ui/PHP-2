@@ -13,7 +13,6 @@ Ik leer PHP om backend van websites te kunnen maken.
 * PHP connect to mySQL database v
 * Gegevens opslaan en ophalen
 * PHP insert into mySQL database
-* PHP reg from project
 ## Programma's
 
 * Visual Studio Code
