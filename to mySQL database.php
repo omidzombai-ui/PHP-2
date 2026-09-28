@@ -1,0 +1,15 @@
+<?php
+
+$host = "localhost";
+$username = "root";
+$password = "";
+$database = "zs_sport_ai";
+
+$conn = new mysqli($host, $username, $password, $database);
+
+if ($conn->connect_error) {
+    die("Database connectie mislukt: " . $conn->connect_error);
+}
+
+echo "Database connectie gelukt!";
+?>
